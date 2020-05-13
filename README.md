@@ -1,2 +1,6 @@
-# EVPress
-Shocking News and Headlines @yourlatest
+# EV Press
+
+Spark your day with @thelatest
+
+EV Press: Evolve, Inform, Electrify
+
