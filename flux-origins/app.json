@@ -3,7 +3,7 @@
     "name": "evpress",
     "slug": "evpress",
     "privacy": "public",
-    "sdkVersion": "31.0.0",
+    "sdkVersion": "34.0.0",
     "platforms": ["ios", "android"],
     "version": "1.0.0",
     "orientation": "portrait",
