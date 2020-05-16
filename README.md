@@ -1,6 +1,9 @@
-# EV Press
+# Zeus Media
 
-Spark your day with @thelatest
+It's golden hour, time for lightening news with @thelatest
 
-EV Press: Evolve, Inform, Electrify
+
+
+
+npx create-react-native-app 
 
