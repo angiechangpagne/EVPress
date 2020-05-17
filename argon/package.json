@@ -31,7 +31,8 @@
     "react-native-modal-dropdown": "^0.7.0",
     "react-native-reanimated": "~1.4.0",
     "react-native-safe-area-context": "0.6.0",
-    "react-native-screens": "2.0.0-alpha.12"
+    "react-native-screens": "2.0.0-alpha.12",
+    "react-navigation": "^4.3.9"
   },
   "devDependencies": {
     "babel-preset-expo": "^7.0.0"
@@ -45,19 +46,9 @@
     "creative tim",
     "argon Android",
     "react native ui kit",
-    "react native expo",
-    "freebie",
-    "react native argon design",
-    "react native galio",
-    "galio argon free",
-    "galio react native free app",
-    "argon expo react native",
-    "react native ui template"
+    "react native expo"
   ],
-  "author": "Creative Tim <hello@creative-tim.com> (https://www.creative-tim.com/)",
+  "author": "Angels Of War",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/creativetimofficial/argon-react-native/issues"
-  },
   "homepage": "https://demos.creative-tim.com/argon-react-native"
 }
