@@ -21,7 +21,7 @@ In ios Directory:
 
 
 Option 2: Create-native App
-npx create-react-native-app 
+- npx create-react-native-app midis-media
 
 
 
@@ -30,3 +30,13 @@ clean out a react app project and its cache
 
 - npm install --save-dev react-native-clean-project
 - react-native clean-project-auto
+
+
+
+Option 3: Ignite-CLI
+- npx ignite-cli new templeOfZeus --boilerplate andross
+
+
+- cd templeOfZeus
+
+- npx react-native run-ios
